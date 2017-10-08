@@ -14,7 +14,7 @@ phases:
  post_build:
   commands:
    - echo Build Completed...
- artifacts:
-  files:
+artifacts:
+ files:
    - target/messageUtil-1.0.jar
   
